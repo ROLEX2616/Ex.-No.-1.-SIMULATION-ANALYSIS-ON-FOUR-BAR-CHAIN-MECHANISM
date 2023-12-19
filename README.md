@@ -55,8 +55,12 @@
 ## Output:
 
 
-### Name:
-### Register Number: 
+![Screenshot 2023-12-19 233616](https://github.com/ROLEX2616/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/149988469/228e9d6d-e91d-401c-82a6-bbca5775bc20)
+
+
+
+### Name:Kavinraj.S
+### Register Number:23011639 
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
